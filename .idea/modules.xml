@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rest/command_rest.iml" filepath="$PROJECT_DIR$/rest/command_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query_rest/query_rest.iml" filepath="$PROJECT_DIR$/query_rest/query_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/strpz.iml" filepath="$PROJECT_DIR$/.idea/strpz.iml" />
+    </modules>
+  </component>
+</project>
